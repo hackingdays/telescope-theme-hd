@@ -1,7 +1,8 @@
 Package.describe({
-    name: "telescope:theme-hd",
+    name: "phatpham9:theme-hd",
     summary: "Telescope Hacking Days theme package",
     version: "0.0.1",
+    documentation: 'https://github.com/hackingdays/telescope-theme-hd/README.md',
     git: "https://github.com/hackingdays/telescope-theme-hd.git"
 });
 
